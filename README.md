@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @rorybaloney845
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord Rorybaloney#6969
+- 👀 I’m interested in Waterpolo
+- 📫 You can reach me at Discord rorymhny
 
 <!---
 rorybaloney845/rorybaloney845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
